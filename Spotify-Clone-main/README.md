@@ -33,7 +33,7 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/codewithbalaji/spotify-clone.git
+  https://github.com/thatsaashik/Spotify-Clone-main.git
     ```
 2. Navigate to the project directory:
     ```sh
